@@ -78,7 +78,7 @@
   </distributionManagement>
 
   <scm>
-	<connection>https://github.com/speedcoding/gitProject</connection>
+	<developerConnection>https://github.com/speedcoding/gitProject</developerConnection>
   </scm>	
 
 </project>
