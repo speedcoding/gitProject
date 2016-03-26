@@ -75,6 +75,10 @@
       <id>artefact</id>
       <url>file:Artifactory/</url>
     </repository>
-  </distributionManagement>	
+  </distributionManagement>
+
+  <scm>
+	<connection>https://github.com/speedcoding/gitProject</connection>
+  </scm>	
 
 </project>
