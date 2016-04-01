@@ -58,7 +58,7 @@
                     </goals>
                     <configuration>
                         <repositoryId>artefact</repositoryId>
-                        <url>file:Artifactory</url>
+                        <url>file///:Artifactory</url>
                         <groupId>${project.groupId}</groupId>
                         <artifactId>${project.artifactId}</artifactId>
                         <version>${project.version}</version>
